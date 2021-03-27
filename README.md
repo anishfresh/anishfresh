@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anishfresh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend and pytho
+- 🌱 I’m currently learning frontend and python
 - 💞️ I’m looking to collaborate on side projects
 
 <!---
